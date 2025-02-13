@@ -31,7 +31,7 @@
         }
       }
     },
-    "types": [ "rusty" ]
+    "types": [ "rusty", "iron" ]
   },
   "textures": {
     "rusty-stall-body": { "base": "game:block/machine/device-plate" },
