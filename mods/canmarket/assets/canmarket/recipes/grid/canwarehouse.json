@@ -5,7 +5,7 @@
       "P": {
         "type": "item",
         "code": "game:metalplate-*",
-        "allowedVariants": [ "copper", "brass", "blackbronze", "tinbronze", "bismuthbronze", "iron" ],
+        "allowedVariants": [ "copper", "brass", "blackbronze", "tinbronze", "bismuthbronze" ],
         "name": "material",
         "quantity": 2
       },
